@@ -37,7 +37,7 @@ Python 3.9 or newer is required.
 From the project root, install dependencies using:
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ### Run the full pipeline
