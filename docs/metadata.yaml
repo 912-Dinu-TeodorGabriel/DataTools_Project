@@ -1,0 +1,6 @@
+dataset_name: Synthetic Institutional Records
+description: Synthetic dataset for reproducible data workflows
+time_coverage: 2022
+update_frequency: none
+license: internal academic use only
+privacy: synthetic, no real individuals
